@@ -20,7 +20,7 @@ In this project, a genome configuration represents a way to evolve a GOL
 simulation. It may restrict the space of possible designs explored, and
 influence the process of searching through that space by managing mutations.
 These configurations can be evolved or designed by hand. More details on how
-these work [here](#genome-configurations) ***TODO: link***.
+these work [here](https://github.com/ngaylinn/epigenetic-gol-prototype#genome-configurations).
 
 The rest of this section documents the predefined configurations used in this
 project and the kinds of simulations they produce. The evolved configurations
@@ -235,8 +235,8 @@ This project attempts evolving configurations in four different ways:
   each gene, conditionally based on parent performance.
 
 For more details on the design of genome configurations and what these
-variations really mean, see the documentation [here](#genome-configurations)
-***TODO: link***.
+variations really mean, see the documentation
+[here](https://github.com/ngaylinn/epigenetic-gol-prototype#genome-configurations).
 
 Each genome experiment runs for 50 generations with a population of 32 genome
 configurations. The fitness of each individual is evaluated by evolving GOL
