@@ -1,0 +1,9 @@
+Gene                     Worse    Same     Better  
+global_mutation_rate     0.0064   0.0064   0.0064  
+global_crossover_rate    0.6350   0.6350   0.6350  
+seed                     0.0009   0.0009   0.0009  
+stamp                    0.0000   0.0000   0.0000   Fixed value: True
+stamp_offset             0.0062   0.0062   0.0062  
+repeat_mode              0.0000   0.0000   0.0000   Fixed value: 3
+repeat_offset            0.0046   0.0046   0.0046  
+mirror                   0.0076   0.0076   0.0076  
