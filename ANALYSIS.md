@@ -571,7 +571,7 @@ values evolved and what impact (if any) they have in the context of an evolving
 lineage.
 
 Interestingly, when fine-grain mutations were added to the mix, this pattern
-seemed to disappear and occasionally even *reverse* with the highest mutation
+seemed much weaker and occasionally even *reverses* with muxh highest mutation
 rates occurring when fitness is trending upwards.
 
 | Fitness Goal  | Worse  | Same   | Better |
